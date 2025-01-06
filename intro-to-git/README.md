@@ -9,4 +9,4 @@ Este repositório foi criado para ajudar os alunos a aprenderem os conceitos bá
 ## Como Clonar Este Repositório
 Use o comando abaixo para clonar este repositório:
 ```bash
-git clone <URL-DO-REPOSITORIO>
+git clone <https://github.com/thiagoturini/learn-git.git>
