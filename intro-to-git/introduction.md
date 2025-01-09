@@ -1,0 +1,26 @@
+# Introdução ao Git
+
+O Git é um sistema de controle de versão distribuído, amplamente utilizado para gerenciar projetos de software. Ele permite que os desenvolvedores acompanhem mudanças no código, colaborem em equipe e revertam para versões anteriores, se necessário.
+
+## História do Git
+- Criado por **Linus Torvalds** em **2005**.
+- Inicialmente desenvolvido para o gerenciamento do kernel Linux.
+- Tornou-se uma ferramenta popular em todo o mundo para controle de versão.
+
+## Principais Características do Git
+- **Distribuído**: Cada cópia do repositório é completa.
+- **Eficiente**: Garante performance alta mesmo com grandes projetos.
+- **Confiável**: Usa hashing criptográfico (SHA-1) para garantir integridade.
+
+## Exercício Inicial
+Adicione seu nome na lista abaixo como parte do aprendizado:
+
+### Lista de Alunos
+- Nuno Miguel Gomes Sousa
+- Beatriz Seca Freitas
+- Bruno Matos
+- Thiago Turini Alves Pinto (teste)
+- Luís Pedro Magalhães da Silva
+- Eurico Fernando Soares
+- Bernardo Damasceno Pina Rainha
+- Pedro Miguel da Cunha Sampaio
